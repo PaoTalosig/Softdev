@@ -22,7 +22,7 @@ $date = date('m/d/Y h:i:s a', time());
           <div class="form-group">
             <label class="custom-control custom-radio custom-control-inline">
                             <input required="" type="radio" class="custom-control-input" name="time_in_option" value="Morning" >
-                            <span class="custom-control-label">Time In Morning</span>
+                            <span class="custom-control-label">Time In AM</span>
                           </label>
                    <div class="valid-tooltip">
                      Looks good!
